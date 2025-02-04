@@ -1,5 +1,5 @@
 ## 레벨 1
-2024-02-13 ~ 2023-04-05
+2024-02-13 ~ 2024-04-05
 
 | 기간 | 미션 | 1차 PR | 2차 PR	|
 | :---: | :---: | :---: | :---: |
@@ -9,7 +9,7 @@
 | 03-19 ~ 04-01 | 체스 | [1차 PR](https://github.com/woowacourse/java-chess/pull/681) | [2차 PR](https://github.com/woowacourse/java-chess/pull/732)	|
 
 ## 레벨 2
-2024-04-16 ~ 2023-06-14
+2024-04-16 ~ 2024-06-14
 
 | 기간 | 미션 | 1차 PR | 2차 PR	| 3차 PR |
 | :---: | :---: | :---: | :---: | :---: |
@@ -19,14 +19,14 @@
 | 05-28 ~ 06-10 | 방탈출 결제 / 배포 | [1차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/2) | [2차 PR](https://github.com/woowacourse/spring-roomescape-payment/pull/81)	|
 
 ## 레벨 3
-2024-07-02 ~ 2023-08-25
+2024-07-02 ~ 2024-08-25
 
 [프로젝트](https://github.com/woowacourse-teams/2024-cruru)
 
 [나의 PR](https://github.com/woowacourse-teams/2024-cruru/pulls?q=is%3Apr+assignee%3AHyungHoKim00+)
 
 ## 레벨 4
-2024-09-03 ~ 2023-11-01
+2024-09-03 ~ 2024-11-01
 
 | 기간 | 미션 | 받은 리뷰 | 준 리뷰 |
 | :---: | :---: | :---: | :---: |
