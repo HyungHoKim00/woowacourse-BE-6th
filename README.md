@@ -21,9 +21,7 @@
 ## 레벨 3
 2024-07-02 ~ 2024-08-25
 
-[프로젝트](https://github.com/woowacourse-teams/2024-cruru)
-
-[나의 PR](https://github.com/woowacourse-teams/2024-cruru/pulls?q=is%3Apr+assignee%3AHyungHoKim00+)
+[프로젝트](https://github.com/HyungHoKim00/2024-cruru)
 
 ## 레벨 4
 2024-09-03 ~ 2024-11-01
